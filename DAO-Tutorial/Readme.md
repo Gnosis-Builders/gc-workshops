@@ -1,5 +1,8 @@
 # DAO Tutorial
 
+## Video Walkthrough
+The video walkthrough of this tutorial can be found on [YouTube Channel of Gnosis Builders](https://www.youtube.com/watch?v=BsDWR2lCk-E)
+
 ## What is a DAO?
 
 A DAO, or “Decentralized Autonomous Organization,” is a community-led entity with no central authority. It is fully autonomous and transparent: smart contracts lay the foundational rules, execute the agreed upon decisions, and at any point, proposals, voting, and even the very code itself can be publicly audited.
